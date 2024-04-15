@@ -6,7 +6,7 @@ hiz = 0.15
 puan = 0
 kuyruklar = []
 pencere = turtle.Screen()
-pencere.title("Yılan Oyunu by Khajz")
+pencere.title("Yılan Oyunu by enes-github")
 pencere.bgpic('Yilan\cg.png')
 pencere.setup(width=600, height=600)
 pencere.tracer(0)
